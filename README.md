@@ -21,8 +21,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<h3>Some things about me: </h3>
-
 - :school: I am a `Junior`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
@@ -44,6 +42,7 @@
 />
 </p>
 
+# 📊 GitHub Stats:
 <table align="center">
   <tr border="none">
     <td width="50%">
