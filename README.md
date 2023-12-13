@@ -11,13 +11,21 @@
   </a>
   &emsp;
   <a target="_blank" href="https://www.superprof.com.ar/estudiante-base-area-del-palomar-como-tecnico-electronico-con-certificado-programacion-web-python-hace-mas.html">  
-  <img alt="Static Badge" src="https://img.shields.io/badge/superprof-222222?style=for-the-badge&logo=leanpub">
+    <img alt="Static Badge" src="https://img.shields.io/badge/superprof-222222?style=for-the-badge&logo=leanpub">
   </a>
   &emsp;
   <a href="https://www.instagram.com/the_mati_19/" target="_blank">  
-  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&labelColor=white">
   </a>
 </div>
 
+<h3> Here's some fun facts about me: </h3>
+
+- 🔭 I’m currently working on Flutter Projects
+- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
+- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
+- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
+- 💬 Ask me about Programming or Machine Learning
+- 📫 I am also a technical writer at Medium 
 
 
