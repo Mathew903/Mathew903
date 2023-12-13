@@ -5,20 +5,6 @@
   </h3>
 </div>
 
-<div>
-  <a target="_blank" href="https://www.linkedin.com/in/matias-garcia-palacios/" >
-    <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  &emsp;
-  <a target="_blank" href="https://www.superprof.com.ar/estudiante-base-area-del-palomar-como-tecnico-electronico-con-certificado-programacion-web-python-hace-mas.html">  
-    <img alt="Static Badge" src="https://img.shields.io/badge/superprof-222222?style=for-the-badge&logo=leanpub">
-  </a>
-  &emsp;
-  <a href="https://www.instagram.com/the_mati_19/" target="_blank">  
-    <img alt="Static Badge" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&labelColor=white">
-  </a>
-</div>
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - :school: I am a `Junior`.
@@ -42,6 +28,8 @@
 />
 </p>
 
+<br></br>
+
 # 📊 GitHub Stats:
 <table align="center">
   <tr border="none">
@@ -55,3 +43,24 @@
     </td>
   </tr>
 </table>
+
+<br></br>
+
+## 🤝 Connect with me
+<div>
+  <a target="_blank" href="https://www.linkedin.com/in/matias-garcia-palacios/" >
+    <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  &emsp;
+  <a target="_blank" href="https://www.superprof.com.ar/estudiante-base-area-del-palomar-como-tecnico-electronico-con-certificado-programacion-web-python-hace-mas.html">  
+    <img alt="Static Badge" src="https://img.shields.io/badge/superprof-222222?style=for-the-badge&logo=leanpub">
+  </a>
+  &emsp;
+  <a href="https://www.instagram.com/the_mati_19/" target="_blank">  
+    <img alt="Static Badge" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&labelColor=white">
+  </a>
+</div>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=custom)
+
