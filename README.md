@@ -9,7 +9,7 @@
 
 - :school: I am a `Junior`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
+- :computer: I am a competitive programmer.
 - :student: I’m currently learning `web development`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/13Br2DosDQ6h3WOYZx6Yv3hEqtvepngQT/view?usp=sharing).
