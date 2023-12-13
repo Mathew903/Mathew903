@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 align="center"><b>Hola a todos</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, <b>bienvenidos, soy Matias Garcia</b></h1>
+  <h1 align="center"><b>hello everyone</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, <b>welcome, I'm Matías García</b></h1>
   <h3 align="center">
-    Soy un apasionado del desarrollo web y de la programacion en si, un bello mundo de aprendisaje y descubrimientos constantes, con retos que se presentan diariamente que nos hacen aprender mas de lo que sabemos.
+    I am passionate about web development and programming itself, a beautiful world of learning and constant discoveries, with challenges that arise daily that make us learn more than we know.
   </h3>
 </div>
 
@@ -21,13 +21,25 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<h3>Algunas cosas sobre mi: </h3>
+<h3>Some things about me: </h3>
 
 - :school: I am a `Junior`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
+- :student: I’m currently learning `web development`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/13Br2DosDQ6h3WOYZx6Yv3hEqtvepngQT/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+<img 
+  src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,html,css,tailwind,react,nextjs,astro,angular,nodejs,express,nestjs,fastapi,mysql,postgres,sqlite,mongodb,graphql,figma,aws,git,github,linux,vscode,arduino&perline=14" 
+/>
+</p>
