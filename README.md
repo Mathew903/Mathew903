@@ -6,3 +6,5 @@
 </div>
 
 ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmatias-garcia-palacios%2F)
+![Static Badge](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmatias-garcia-palacios%2F)
+
