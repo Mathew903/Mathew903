@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hola a todos👋, bienvenidos, soy Matias Garcia</h1>
+  <h1 align="center"><b>Hola a todos</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, <b>bienvenidos, soy Matias Garcia</b></h1>
   <h3 align="center">
     Soy un apasionado del desarrollo web y de la programacion en si, un bello mundo de aprendisaje y descubrimientos constantes, con retos que se presentan diariamente que nos hacen aprender mas de lo que sabemos.
   </h3>
@@ -19,13 +19,15 @@
   </a>
 </div>
 
-<h3> Here's some fun facts about me: </h3>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
-- 📫 I am also a technical writer at Medium 
+<h3>Algunas cosas sobre mi: </h3>
 
+- :school: I am a `Junior`.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/13Br2DosDQ6h3WOYZx6Yv3hEqtvepngQT/view?usp=sharing).
+- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 
