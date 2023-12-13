@@ -43,3 +43,5 @@
   src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,html,css,tailwind,react,nextjs,astro,angular,nodejs,express,nestjs,fastapi,mysql,postgres,sqlite,mongodb,graphql,figma,aws,git,github,linux,vscode,arduino&perline=14" 
 />
 </p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mathew903&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mathew903&layout=compact&langs_count=8&theme=algolia"/>
