@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"><b>hello everyone</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, <b>welcome, I'm Matías García</b></h1>
+  <h1 align="center"><b>Hello everyone</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, <b>welcome, I'm Matías García</b></h1>
   <h3 align="center">
     I am passionate about web development and programming itself, a beautiful world of learning and constant discoveries, with challenges that arise daily that make us learn more than we know.
   </h3>
